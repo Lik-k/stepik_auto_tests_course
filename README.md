@@ -8,4 +8,4 @@ Set up different expectations for finding items
 Work with the Git version control system (at a basic level)
 Use different test frameworks
 How to organize your autotest code in a way that is easy to maintain and easy to read
-... and many more little things, tips and tricks, as well as good practices that we ourselves try to use!
+... and many more little things, tips and tricks, as well as good practices that we ourselves try to use.
